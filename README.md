@@ -1,2 +1,2 @@
-# fsc
+# FSC
 Futbol Score Control
