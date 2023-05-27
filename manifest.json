@@ -1,0 +1,22 @@
+{
+  "name": "Futbol Score Control",
+  "short_name": "Futbol Score Control",
+  "description": "Control para llevar el score de un partido de fútbol, un producto de PONETE LOS CORTOS.",
+ 
+  "scope": "/fsc/",
+  "start_url": "/fsc/",
+ 
+  "background_color": "#222",
+  "theme_color": "#222",
+ 
+  "display": "standalone", 
+ 
+  "icons": [
+      {
+        "src": "/fsc/icon.png",
+        "type": "image/png",
+        "sizes": "567x567",
+        "purpose": "any maskable"
+      }
+  ]
+}
